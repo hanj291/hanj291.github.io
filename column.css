@@ -1,0 +1,17 @@
+body {
+    background-color: lime;
+}
+
+.wrapper {
+    width: 400px;
+}
+
+.column {
+    width: 160px;
+    padding: 20px;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
