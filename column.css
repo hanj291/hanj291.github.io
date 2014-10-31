@@ -7,15 +7,28 @@ body {
 }
 
 .sprite {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     background: url(acti.jpg);
+    background-repeat: no-repeat;
+    display: block;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow= hidden;
+}
+.sprite:hover {
+    background-position: -200px 0;
 }
 
+.sprite:active {
+    background-position: -400px 0;
+}
 .column {
     width: 160px;
     padding: 20px;
     float: right;
+    height: 200px;
+    overflow: auto;
 }
 
 .clear {
