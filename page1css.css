@@ -6,8 +6,8 @@ body {
     height: 60px;
     background-color: #6495ED;
     position: relative;
-    bottom: -35px;
-    right: -40px;
+    top: 10px;
+    left: 90px;
 } 
 .one:hover {
     background-color: #008B8B;
@@ -15,10 +15,10 @@ body {
 .two {
     width: 100px;
     height: 60px;
-    background-color: #008B8B;
+    background-color: red;
     position: relative;
-    bottom: -30px;
-    right: -35px;
+    bottom: -90px;
+    right: -90px;
 } 
 .two:hover {
     background-color: #6495ED;
@@ -28,8 +28,8 @@ body {
     height: 60px;
     background-color: #6495ED;
     position: relative;
-    bottom: -25px;
-    right: -30px;
+    bottom: -91px;
+    right: -90px;
 } 
 .three:hover {
     background-color: #008B8B;
@@ -39,8 +39,8 @@ body {
     height: 60px;
     background-color: #008B8B;
     position: relative;
-    bottom: -20px;
-    right: -25px;
+    bottom: -92px;
+    right: -90px;
 } 
 .four:hover {
     background-color: #6495ED;
@@ -50,8 +50,8 @@ body {
     height: 60px;
     background-color: #6495ED;
     position: relative;
-    bottom: -15px;
-    right: -20px;
+    bottom: -93px;
+    right: -90px;
 } 
 .five:hover {
     background-color: #008B8B;
@@ -61,8 +61,8 @@ body {
     height: 60px;
     background-color: #008B8B;
     position: relative;
-    bottom: -10px;
-    right: -15px;
+    bottom: -94px;
+    right: -90px;
 } 
 .six:hover {
     background-color: #6495ED;
@@ -72,8 +72,8 @@ body {
     height: 60px;
     background-color: #6495ED;
     position: relative;
-    bottom: -5px;
-    right: -10px;
+    bottom: -95px;
+    right: -90px;
 } 
 .seven:hover {
     background-color: #008B8B;
@@ -83,8 +83,8 @@ body {
     height: 60px;
     background-color: #008B8B;
     position: relative;
-    bottom: 0px;
-    right: -5px;
+    bottom: -96px;
+    right: -90px;
 } 
 .eight:hover {
     background-color: #6495ED;
@@ -94,8 +94,8 @@ body {
     height: 60px;
     background-color: #6495ED;
     position: relative;
-    bottom: 10px;
-    right: 5px;
+    bottom: -97px;
+    right: -90px;
 } 
 .ten:hover {
     background-color: #008B8B;
@@ -105,9 +105,20 @@ body {
     height: 60px;
     background-color: #008B8B;
     position: relative;
-    bottom: 20px;
-    right: 30px;
+    bottom: -98px;
+    right: -90px;
 } 
 .zero:hover {
+    background-color: #6495ED;
+}
+.zeroone {
+    width: 100px;
+    height: 60px;
+    background-color: lime;
+    position: relative;
+    top: -590px;
+    left: 500px;
+} 
+.zeroone:hover {
     background-color: #6495ED;
 }
