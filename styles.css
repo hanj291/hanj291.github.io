@@ -23,7 +23,7 @@ p {
     bottom: 20px;
     right: 30px;
     border-radius: 60px;
-    
+        border: solid orange 6px;
 }
 
 .one:hover {

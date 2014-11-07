@@ -8,7 +8,7 @@ body {
     position: relative;
 } 
 .one:hover {
-    color: #008B8B;
+    background-color: #008B8B;
 }
 .two {
     width: 100px;
@@ -17,5 +17,5 @@ body {
     position: relative;
 } 
 .two:hover {
-    color: #6495ED;
+    background-color: #6495ED;
 }
