@@ -1,3 +1,9 @@
 body {
     background-color: gray;
 }
+.one {
+    width: 100px;
+    height: 60px;
+    background-color: #6495ED;
+    position: relative;
+} 
