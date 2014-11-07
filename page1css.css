@@ -37,3 +37,48 @@ body {
 .four:hover {
     background-color: #6495ED;
 }
+.five {
+    width: 100px;
+    height: 60px;
+    background-color: #6495ED;
+    position: relative;
+} 
+.five:hover {
+    background-color: #008B8B;
+}
+.six {
+    width: 100px;
+    height: 60px;
+    background-color: #008B8B;
+    position: relative;
+} 
+.six:hover {
+    background-color: #6495ED;
+}
+.seven {
+    width: 100px;
+    height: 60px;
+    background-color: #6495ED;
+    position: relative;
+} 
+.seven:hover {
+    background-color: #008B8B;
+}
+.eight {
+    width: 100px;
+    height: 60px;
+    background-color: #008B8B;
+    position: relative;
+} 
+.eight:hover {
+    background-color: #6495ED;
+}
+.nine {
+    width: 100px;
+    height: 60px;
+    background-color: #6495ED;
+    position: relative;
+} 
+.nine:hover {
+    background-color: #008B8B;
+}
