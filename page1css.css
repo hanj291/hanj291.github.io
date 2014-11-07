@@ -82,3 +82,21 @@ body {
 .nine:hover {
     background-color: #008B8B;
 }
+.ten {
+    width: 100px;
+    height: 60px;
+    background-color: #008B8B;
+    position: relative;
+} 
+.ten:hover {
+    background-color: #6495ED;
+}
+.zero {
+    width: 100px;
+    height: 60px;
+    background-color: #6495ED;
+    position: relative;
+} 
+.zero:hover {
+    background-color: #008B8B;
+}
