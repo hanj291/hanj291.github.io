@@ -19,3 +19,21 @@ body {
 .two:hover {
     background-color: #6495ED;
 }
+.three {
+    width: 100px;
+    height: 60px;
+    background-color: #6495ED;
+    position: relative;
+} 
+.three:hover {
+    background-color: #008B8B;
+}
+.four {
+    width: 100px;
+    height: 60px;
+    background-color: #008B8B;
+    position: relative;
+} 
+.four:hover {
+    background-color: #6495ED;
+}
