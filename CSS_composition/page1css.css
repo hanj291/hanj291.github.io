@@ -1,245 +1,62 @@
 body {
     background-color: gray;
 }
-.one {
+wrapper {
+    width: 900px;
+}
+
+.wrapper div {
+    display: inline-block;
     width: 100px;
-    height: 60px;
+    height: 100px;
+    
+}
+
+.one {
     background-color: #6495ED;
-    position: relative;
-    bottom: -89px;
-    right: -90px;
-} 
+}
 .one:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .two {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -90px;
-    right: -90px;
-} 
+}
 .two:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .three {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -91px;
-    right: -90px;
-} 
+}
 .three:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .four {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -92px;
-    right: -90px;
-} 
+}
 .four:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .five {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -93px;
-    right: -90px;
-} 
+}
 .five:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .six {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -94px;
-    right: -90px;
-} 
+}
 .six:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .seven {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -95px;
-    right: -90px;
-} 
+}
 .seven:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
 .eight {
-    width: 100px;
-    height: 60px;
     background-color: #6495ED;
-    position: relative;
-    bottom: -96px;
-    right: -90px;
-} 
+}
 .eight:hover {
-    background-color: #008B8B;
-}
-.ten {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    bottom: -97px;
-    right: -90px;
-} 
-.ten:hover {
-    background-color: #008B8B;
-}
-.zero {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    bottom: -98px;
-    right: -90px;
-} 
-.zero:hover {
-    background-color: #008B8B;
-}
-.zeroone {
-    width: 100px;
-    height: 60px;
-    background-color: lime;
-    position: relative;
-    top: -590px;
-    left: 500px;
-} 
-.zeroone:hover {
-    background-color: #008B8B;
-}
-.zerotwo {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    bottom: 571px;
-    left: 190px;
-} 
-.zerotwo:hover {
-    background-color: #008B8B;
-}
-.zerothree {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    bottom: 570px;
-    left: 190px;
-} 
-.zerothree:hover {
-    background-color: #008B8B;
-}
-.zerof {
-    width: 100px;
-    height: 60px;
-    background-color: #FF6347;
-    position: relative;
-    bottom: 569px;
-    left: 190px;
-} 
-.zerof:hover {
-    background-color: #008B8B;
-}
-.zeroff {
-    width: 100px;
-    height: 60px;
-    background-color: #FF6347;
-    position: relative;
-    bottom: 568px;
-    left: 190px;
-} 
-.zeroff:hover {
-    background-color: #008B8B;
-}
-.zeros {
-    width: 100px;
-    height: 60px;
-    background-color: #FF6347;
-    position: relative;
-    bottom: 567px;
-    left: 190px;
-} 
-.zeros:hover {
-    background-color: #008B8B;
-}
-.z {
-    width: 100px;
-    height: 60px;
-    background-color: #FF6347;
-    position: relative;
-    bottom: 566px;
-    left: 190px;
-} 
-.z:hover {
-    background-color: #008B8B;
-}
-.a {
-    width: 100px;
-    height: 60px;
-    background-color: #FF6347;
-    position: relative;
-    bottom: 565px;
-    left: 190px;
-} 
-.a:hover {
-    background-color: #008B8B;
-}
-.b {
-    width: 100px;
-    height: 60px;
-    background-color: #FF6347;
-    position: relative;
-    bottom: 564px;
-    left: 190px;
-} 
-.b:hover {
-    background-color: #008B8B;
-}
-.c {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    bottom: 563px;
-    left: 190px;
-} 
-.c:hover {
-    background-color: #008B8B;
-}
-.d {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    bottom: 562px;
-    left: 190px;
-} 
-.d:hover {
-    background-color: #008B8B;
-}
-.e {
-    width: 100px;
-    height: 60px;
-    background-color: #6495ED;
-    position: relative;
-    top: 51px;
-    left: 290px;
-} 
-.e:hover {
-    background-color: #008B8B;
+       background-color: #008B8B;
 }
