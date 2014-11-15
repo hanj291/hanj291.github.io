@@ -77,9 +77,9 @@ wrapper {
        background: url(cat-no.jpg);
 }
 .triangle {
-	border-bottom: none;
-	border-top: 40px solid blue;
-	border-right: 70px solid transparent;
+	border-bottom: 70px solid blue;
+	border-top: none;
+	border-right: 24px solid transparent;
 	border-left: 24px solid transparent;
 	width:0;
 	
