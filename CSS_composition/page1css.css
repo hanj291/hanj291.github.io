@@ -2,11 +2,13 @@ body {
     background-color: gray;
 }
 wrapper {
-    width: 900px;
+    width: 600px;
+   
 }
 
 .wrapper div {
     display: inline-block;
+    position: relative;
     width: 100px;
     height: 100px;
     
@@ -16,143 +18,69 @@ wrapper {
     background-color: #6495ED;
 }
 .one:hover {
-       background-color: #008B8B;
+       background: url(cat-no.jpg);
 }
 .two {
     background-color: #6495ED;
 }
 .two:hover {
-       background-color: #008B8B;
+       background: url(cat-no.jpg);
 }
 .three {
     background-color: #6495ED;
 }
 .three:hover {
-       background-color: #008B8B;
+       background: url(cat-no.jpg);
 }
 .four {
     background-color: #6495ED;
 }
 .four:hover {
-       background-color: #008B8B;
+       background: url(cat-no.jpg);
 }
 .five {
     background-color: #6495ED;
 }
 .five:hover {
-       background-color: #008B8B;
+       background: url(cat-no.jpg);
 }
-.six {
+
+.hh {
+    background-color: #6495ED;
+    
+}
+.hh:hover {
+       background: url(un_cat.jpg);
+}
+.ii {
     background-color: #6495ED;
 }
-.six:hover {
-       background-color: #008B8B;
+.ii:hover {
+       background: url(cat-no.jpg);
 }
-.seven {
+.jj {
     background-color: #6495ED;
 }
-.seven:hover {
-       background-color: #008B8B;
+.jj:hover {
+       background: url(cat-no.jpg);
 }
-.eight {
+.kk {
     background-color: #6495ED;
 }
-.eight:hover {
-       background-color: #008B8B;
+.kk:hover {
+       background: url(cat-no.jpg);
 }
-.nine {
+.ll {
     background-color: #6495ED;
 }
-.nine:hover {
-       background-color: #008B8B;
+.ll:hover {
+       background: url(cat-no.jpg);
 }
-.ten {
-    background-color: #6495ED;
-}
-.ten:hover {
-       background-color: #008B8B;
-}
-.zero {
-    background-color: #6495ED;
-}
-.zero:hover {
-       background-color: #008B8B;
-}
-.zeroone {
-    background-color: #6495ED;
-}
-.zeroone:hover {
-       background-color: #008B8B;
-}
-.zerotwo {
-    background-color: #6495ED;
-}
-.zerotwo:hover {
-       background-color: #008B8B;
-}
-.zerothree {
-    background-color: #6495ED;
-}
-.zerothree:hover {
-       background-color: #008B8B;
-}
-.zerof {
-    background-color: #6495ED;
-}
-.zerof:hover {
-       background-color: #008B8B;
-}
-.zeroff {
-    background-color: #6495ED;
-}
-.zeroff:hover {
-       background-color: #008B8B;
-}
-.zeros {
-    background-color: #6495ED;
-}
-.zeros:hover {
-       background-color: #008B8B;
-}
-.z {
-    background-color: #6495ED;
-}
-.z:hover {
-       background-color: #008B8B;
-}
-.a {
-    background-color: #6495ED;
-}
-.a:hover {
-       background-color: #008B8B;
-}
-.b {
-    background-color: #6495ED;
-}
-.b:hover {
-       background-color: #008B8B;
-}
-.c {
-    background-color: #6495ED;
-}
-.c:hover {
-       background-color: #008B8B;
-}
-.d {
-    background-color: #6495ED;
-}
-.d:hover {
-       background-color: #008B8B;
-}
-.e {
-    background-color: #6495ED;
-}
-.e:hover {
-       background-color: #008B8B;
-}
-.f {
-    background-color: #6495ED;
-}
-.f:hover {
-       background-color: #008B8B;
+.triangle {
+	border-bottom: none;
+	border-top: 40px solid blue;
+	border-right: 70px solid transparent;
+	border-left: 24px solid transparent;
+	width:0;
+	
 }
