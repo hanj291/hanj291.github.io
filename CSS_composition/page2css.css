@@ -15,18 +15,6 @@ p2 {
     font-family: "Times New Roman";
     font-size: 30px;
 }
-.dd {
-     left: 0px;
-    top: 0px;
-    -webkit-animation: myfirst 5s;
-    animation: myfirst 5s;
-}
-.di {
-     left: 900px;
-    top: 0px;
-    -webkit-animation: myfirst 5s;
-    animation: myfirst 5s;
-}
 .i {
     height:1px;
 }
