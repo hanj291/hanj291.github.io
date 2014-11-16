@@ -10,5 +10,39 @@ p1 {
     font-size: 100px;
 }
 .i {
-    height:10px;
+    height:1px;
+}
+.ii {
+    height:1px;
+}
+
+.d1 {
+    width: 100px;
+    height: 20px;
+    background-color:#B3F5ED;
+    transform: rotate(30deg); 
+}
+.d2 {
+    width: 100px;
+    height: 20px;
+    background-color:#BDF29A;
+    transform: rotate(120deg); 
+}
+.d3 {
+    width: 100px;
+    height: 20px;
+    background-color:#F2DA9A;
+    transform: rotate(200deg); 
+}
+.d4 {
+    width: 100px;
+    height: 20px;
+    background-color:#F29AA8;
+    transform: rotate(70deg); 
+}
+.d5 {
+    width: 100px;
+    height: 20px;
+    background-color:#F8BDEE;
+    transform: rotate(170deg); 
 }
