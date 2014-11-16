@@ -1,12 +1,9 @@
 body {
     background-color: black;
 }
-.p {
-	animation-duration: 1s;
-    animation-name: blink;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    animation-timing-function: ease-in-out;
+p {
+	font-family: "Times New Roman";
+    font-size: 40px;
 }
 .c1 {
 	width: 150;
