@@ -1,6 +1,51 @@
 body {
     background-image: url(image/snow.jpeg);
 }
-.qq {
-    transform: rotate(30deg)
+.i1 {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    background-image: url(image/cc.gif);
+}
+.i2 {
+    width: 500px;
+    height: 500px;
+     position: absolute;
+    left: 300px;
+    top: 100px;
+    z-index: 0;
+    background-image: url(image/dd.gif);
+}
+.i3 {
+     width: 500px;
+    height: 500px;
+    position: absolute;
+    left:600px;
+    top: 200px;
+    z-index: 1;
+    background-image: url(image/cc.gif);
+}
+.i4 {
+    width: 500px;
+    height: 500px;
+     position: absolute;
+    left: 800px;
+    top: 300px;
+    z-index: 2;
+    background-image: url(image/dd.gif);
+}
+.i5 {
+     position: absolute;
+    left: 300px;
+    top: 300px;
+    z-index:3;
+}
+.i6 {
+     position: absolute;
+    left: 0px;
+    top: 200px;
+    z-index:4;
 }
