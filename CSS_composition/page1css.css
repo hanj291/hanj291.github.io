@@ -13,7 +13,7 @@ body {
    height: 100px;
 }
 .one:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .two {
     background-color: #1A7492;
@@ -21,7 +21,7 @@ body {
    height: 100px;
 }
 .two:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .three {
     background-color: #6495ED;
@@ -29,7 +29,7 @@ body {
    height: 100px;
 }
 .three:hover {
-    background: url(cat-no.jpg);
+    background: url(image/cat-no.jpg);
 }
 .four {
     background-color: #1A7492;
@@ -37,7 +37,7 @@ body {
    height: 100px;
 }
 .four:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .five {
     background-color: #6495ED;
@@ -45,7 +45,7 @@ body {
    height: 100px;
 }
 .five:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 
 .hh {
@@ -54,7 +54,7 @@ body {
    height: 100px;
 }
 .hh:hover {
-       background: url(un_cat.jpg);
+       background: url(image/un_cat.jpg);
 }
 .ii {
     background-color: #6495ED;
@@ -62,7 +62,7 @@ body {
    height: 100px;
 }
 .ii:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .jj {
     background-color: #1A7492;
@@ -70,7 +70,7 @@ body {
    height: 100px;
 }
 .jj:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .kk {
     background-color: #6495ED;
@@ -78,7 +78,7 @@ body {
    height: 100px;
 }
 .kk:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .ll {
     background-color: #1A7492;
@@ -86,7 +86,7 @@ body {
    height: 100px;
 }
 .ll:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .wrapper2 {
     width:800px;
@@ -101,7 +101,7 @@ body {
    height: 100px;
 }
 .a:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .b {
     background-color: #6495ED;
@@ -109,7 +109,7 @@ body {
    height: 100px;
 }
 .b:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .c {
     background-color: #6495ED;
@@ -117,7 +117,7 @@ body {
    height: 100px;
 }
 .c:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .d {
     background-color: #1A7492;
@@ -125,7 +125,7 @@ body {
    height: 100px;
 }
 .d:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .e {
     background-color: #6495ED;
@@ -133,7 +133,7 @@ body {
    height: 100px;
 }
 .e:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .f {
     background-color: #1A7492;
@@ -141,7 +141,7 @@ body {
    height: 100px;
 }
 .f:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .g {
     background-color: #6495ED;
@@ -149,7 +149,7 @@ body {
    height: 100px;
 }
 .g:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .h {
     background-color: #1A7492;
@@ -157,7 +157,7 @@ body {
    height: 100px;
 }
 .h:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .i {
     background-color: #6495ED;
@@ -165,7 +165,7 @@ body {
    height: 100px;
 }
 .i:hover {
-       background: url(cat-no.jpg);
+       background: url(image/cat-no.jpg);
 }
 .j {
     background-color: #1A7492;
@@ -173,5 +173,5 @@ body {
    height: 100px;
 }
 .j:hover {
-       background: url(un_cat.jpg);
+       background: url(image/un_cat.jpg);
 }
